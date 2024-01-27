@@ -1,0 +1,8 @@
+prefix=/home/ismbyrm32/Desktop/Ros_Odevi/install
+
+Name: ilk_ros
+Description: Description of ilk_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+ilk_ros
+-DCATKIN_DEVEL_PREFIX=/home/ismbyrm32/Desktop/Ros_Odevi/devel -DCMAKE_INSTALL_PREFIX=/home/ismbyrm32/Desktop/Ros_Odevi/install -G Unix Makefiles

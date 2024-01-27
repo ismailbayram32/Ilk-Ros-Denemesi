@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="ilk_ros" type="publisher_node" name="publisher_node" output="screen"></node>
+    <node pkg="ilk_ros" type="subscriber_node" name="subscriber_node" output="screen"></node>
+</launch>
+<!--launchfile dosyası ile beraber oluşturduğumuz 'node'ları tek seferde çalıştırabiliriz. Terminalde roscore gibi komutlara ihtiyaç duymadan, tek seferde
+seçtiğimiz node'ları kolaylıkla çalıştırırız.-->
